@@ -1,0 +1,39 @@
+.pinkpara{
+    background-color: rgb(240, 149, 164);
+}
+.bluepara{
+    background-color:rgb(94, 199, 240);
+}
+.dgreenpara{
+    background-color: rgb(97, 192, 97);
+}
+.lgreenpara{
+    background-color: rgb(148, 245, 148);
+}
+.seapara{
+    background-color: rgb(17, 233, 222);
+}
+.yellowpara{
+    background-color: rgb(247, 247, 63);
+}
+.lbpara{
+    background-color: rgb(243, 202, 147);
+}
+.bspara{
+    background-color: rgb(241, 184, 114);
+}
+.spara{
+    background-color: rgb(214, 214, 136);
+}
+.gpara{
+    background-color: rgb(151, 149, 149);
+}
+.dgpara{
+    background-color: rgb(160, 112, 112);
+}
+.fpara{
+    background-color: rgb(247, 229, 192);
+}
+*{
+    background-color:rgb(97, 243, 236);
+}
